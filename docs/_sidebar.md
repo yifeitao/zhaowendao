@@ -12,6 +12,7 @@
         * [9月报](/reports/2019/report-201909.md)
         * [10月报](/reports/2019/report-201910.md)
         * [11月报](/reports/2019/report-201911.md)
+        * [年报](/reports/2018/report-2019.md)
     * 2018
         * [1月报](/reports/2018/report-201801.md)
         * [2月报](/reports/2018/report-201802.md)
