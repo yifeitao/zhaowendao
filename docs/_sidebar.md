@@ -2,6 +2,7 @@
 * 定期报告
     * 2020
         * [1季报](/reports/2020/report-2020Q1.md)
+        * [半年报](/reports/2020/report-2020Q2.md)
     * 2019
         * [1月报](/reports/2019/report-201901.md)
         * [2月报](/reports/2019/report-201902.md)
