@@ -151,13 +151,15 @@
                             type: 'time',
                             time: {
                                 displayFormats: {
-                                    month: 'YYMM'
+                                    month: 'YYYYMMDD'
                                 }
                             },
                             distribution: 'linear',
                             ticks: {
                                 source: 'data',
-                                autoSkip: true
+                                autoSkip: true,
+                                maxRotation: 0,
+                                minRotation: 0
                             }
                         }],
                         yAxes: [{
