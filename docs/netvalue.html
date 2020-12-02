@@ -1,7 +1,7 @@
 <div>
     <canvas id="netvalue"></canvas>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
     <script type="text/javascript">
         // ref: http://stackoverflow.com/a/1293163/2343
         // This will parse a delimited string into an array of
@@ -158,8 +158,8 @@
                             ticks: {
                                 source: 'data',
                                 autoSkip: true,
-                                maxRotation: 0,
-                                minRotation: 0
+                                maxRotation: 90,
+                                minRotation: 90
                             }
                         }],
                         yAxes: [{
